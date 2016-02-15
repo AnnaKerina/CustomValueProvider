@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValueProvider", "CustomValueProvider\CustomValueProvider.csproj", "{32D079BD-B011-46DB-B077-8AD6B8D5F72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValueProvider.Tests", "CustomValueProvider.Tests\CustomValueProvider.Tests.csproj", "{8B5719BD-6C4F-4531-9923-B56201BFAAB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D079BD-B011-46DB-B077-8AD6B8D5F72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D079BD-B011-46DB-B077-8AD6B8D5F72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D079BD-B011-46DB-B077-8AD6B8D5F72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D079BD-B011-46DB-B077-8AD6B8D5F72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5719BD-6C4F-4531-9923-B56201BFAAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5719BD-6C4F-4531-9923-B56201BFAAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5719BD-6C4F-4531-9923-B56201BFAAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5719BD-6C4F-4531-9923-B56201BFAAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
